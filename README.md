@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning : **Java Institute**
 
-- 👨‍💻 All of my projects are available at : GitHub: yoshanhasanga (https://github.com/yoshanhasanga)(GitHub: yoshanhasanga (https://github.com/yoshanhasanga))
+- 👨‍💻 All of my projects are available at : GitHub: yoshanhasanga https://github.com/yoshanhasanga GitHub: yoshanhasanga https://github.com/yoshanhasanga
 
 - 💬 Ask me about : **Software Engineering | Web Development (HTML, CSS, JavaScript, Bootstrap) | Arduino Projects | Python | PHP | and AI programming | AI and robotics (e.g., floating garbage removal project) | and YouTube Content Creation (YK Codex Studio).**
 
